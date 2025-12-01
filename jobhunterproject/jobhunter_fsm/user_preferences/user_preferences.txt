@@ -1,0 +1,26 @@
+Personal Info:
+First Name: Hema
+Last Name: chowdary
+Date of birth: 
+Pronouns: she/her
+
+Email: 
+Expeted Salary: 8000
+Occupation: AI Engineer
+Address: United States
+Phone Number: 
+LinkedIn - www.linkedin.com/in/hemac01
+
+
+Here are some of my preferences:
+Shopping Preferences: www.amazon.com
+Favorite news source: www.thehindu.com
+Favorite flight booking site to use with every flight related query: https://www.google.com/travel/flightsno
+Resume File to Upload Path = /Users/namanjain/Downloads/DummyResume.pdf
+My best project - checkout headless-ollama on google
+
+
+I am comfortable commuting to office.mc
+I have 2 years of experience in Python Backend Developer , RAG , AI Agents,MCP .
+I have work authorization for working in the USA.
+I have experience in cloud infrastructure, data warheouses.
