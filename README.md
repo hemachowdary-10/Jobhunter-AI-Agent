@@ -11,7 +11,7 @@ jobhunter is an ai agent that searches and applies for jobs on your behalf by co
 
 you might notice two separate implementations of jobhunter in the repo. `jobhunter` folder contains a simpler approach to implementing multi-agent conversation required between a planner and a browser agent.
 
-the `jobhunterer_fsm` folder contains another approach based on [finite state machines]. there are slight nuances and both result in similar level or performace. however, the fsm approach is more scalable, and we will be doing further improvements in it.
+the `jobhunterer_fsm` folder contains another approach based on [finite state machines]. there are slight nuances and both result in similar level or performace. 
 
 
 ### setup
